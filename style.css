@@ -21,7 +21,7 @@
 
     10%,
     90% {
-        color: #4C3000;
+        color: #fff;
         text-shadow: none;
 
     }
@@ -124,7 +124,7 @@ footer {
     padding: 1rem;
 }
 
-footer span {
+.footer span {
     span:nth-of-type(1) {
         animation-delay: 0.25s;
     }
