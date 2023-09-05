@@ -125,7 +125,6 @@ footer {
 }
 
 .container {
-    
     width: 1200px;
     max-width: 100%;
     margin: 0 auto;
@@ -144,6 +143,7 @@ form fieldset {
     padding: 10px;
     margin-bottom: 10px;
     align-items: center;
+    text-align: center;
 }
 
 form legend {
