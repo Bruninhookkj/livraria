@@ -125,6 +125,7 @@ footer {
 }
 
 .container {
+    
     width: 1200px;
     max-width: 100%;
     margin: 0 auto;
@@ -142,6 +143,7 @@ form fieldset {
     border-radius: 4px;
     padding: 10px;
     margin-bottom: 10px;
+    align-items: center;
 }
 
 form legend {
@@ -218,5 +220,5 @@ button[type="reset"] {
 
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #171717;
 }
