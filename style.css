@@ -131,7 +131,6 @@ footer {
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    align-items: center;
 }
 
 form {
@@ -216,6 +215,7 @@ button {
 button[type="reset"] {
     background-color: #6c757d;
 }
+
 
 button:hover {
     background-color: #0056b3;
