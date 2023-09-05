@@ -221,5 +221,6 @@ button[type="reset"] {
 
 
 button:hover {
-    background-color: #171717;
+    background-color:darkblue;
+    color: #fff;
 }
