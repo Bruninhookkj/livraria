@@ -90,21 +90,6 @@ main {
     transform: scale(1.1);
 }
 
-button:hover {
-    color: black;
-    background-color: white;
-}
-
-button {
-    background-color: black;
-    margin: 10px;
-    color: #fff;
-    height: 30px;
-    width: 80px;
-    border-radius: 30px;
-    cursor: pointer;
-}
-
 footer {
     background-color: #171717;
     color: #fff;
@@ -191,10 +176,20 @@ select {
     border: 1px solid #ccc;
     border-radius: 4px;
 }
-
-
-
-button[type="reset"] {
-    background-color: #6c757d;
+button {
+    background-color: white;
+    margin: 10px;
+    color: black;
+    height: 30px;
+    width: 80px;
+    border-radius: 30px;
+    cursor: pointer;
 }
-
+button[type="reset"] {
+    background-color: #171717;
+    color: white;
+}
+button:hover {
+    color: white;
+    background-color: #171717;
+}
