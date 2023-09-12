@@ -95,7 +95,7 @@ button:hover {
     background-color: white;
 }
 
-button.one {
+.one {
     background-color: black;
     margin: 10px;
     color: #fff;
