@@ -14,19 +14,6 @@
 
 }
 
-@keyframes brilho {
-    0% {
-        color: #fff;
-    }
-
-    10%,
-    90% {
-        color: #fff;
-        text-shadow: none;
-
-    }
-
-}
 
 * {
     font-family: 'Montserrat', sans-serif;
@@ -108,7 +95,7 @@ button:hover {
     background-color: white;
 }
 
-button {
+button.one {
     background-color: black;
     margin: 10px;
     color: #fff;
